@@ -1,4 +1,5 @@
 # Xplore
 this is my first git repositary.
 <br>
-Author- Pratik
+Author- Pratik Shewale
+
